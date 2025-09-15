@@ -21,5 +21,5 @@ I'm a beginner who is passionate about cybersecurity. This repository serves as 
 
 ### 📫 Let's Connect!
 
-* **Email:** your-email@example.com
-* **Blog:** your-blog-url.com
+* **Email:** jhs15987532@gmail.com
+* **Blog:** To be established soon.
