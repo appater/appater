@@ -1,16 +1,25 @@
-## Hi there 👋
+### Hi there! I'm [appater] 👋
 
-<!--
-**appater/appater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a beginner who is passionate about cybersecurity. This repository serves as a personal space to document my learning journey, skills, and future projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 My Interests & Skills
+
+* **Programming Languages:** Python, C, C++, Java
+* **Operating Systems:** Windows
+
+---
+
+### 🌱 My Goals
+
+* **Dive into cybersecurity fundamentals:** I'm currently focusing on building a solid foundation in core security concepts.
+* **Learn and master security tools:** I plan to explore and practice with various security tools to enhance my practical skills.
+* **Build my first security project:** I'm excited to apply my knowledge by developing a simple security-related script or tool.
+
+---
+
+### 📫 Let's Connect!
+
+* **Email:** your-email@example.com
+* **Blog:** your-blog-url.com
