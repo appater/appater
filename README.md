@@ -7,7 +7,7 @@ I'm a beginner who is passionate about cybersecurity. This repository serves as 
 ### 💻 My Interests & Skills
 
 * **Programming Languages:** Python, C, C++, Java
-* **Operating Systems:** Windows
+* **Operating Systems:** Windows, Ubuntu(WLS)
 
 ---
 
